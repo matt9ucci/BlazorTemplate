@@ -1,0 +1,23 @@
+{
+	"$schema": "http://json.schemastore.org/template",
+
+	"name": "Blazor WebAssembly Minimum",
+	"description": "A minimal project for Blazor WebAssembly",
+
+	"shortName": "bwmini",
+	"tags": {
+		"language": "[C#]",
+		"type": "project"
+	},
+	"classifications": [
+		"Blazor",
+		"WebAssembly"
+	],
+
+	"preferNameDirectory": true,
+
+	"sourceName": "BlazorWebAssemblyMinimum",
+
+	"identity": "Blazor.Wasm.Minimum",
+	"author": "Masatoshi Higuchi"
+}
